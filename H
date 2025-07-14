@@ -1,0 +1,4 @@
+/index.html     ← la página principal
+/styles.css     ← estilos visuales
+/script.js      ← funciones interactivas
+/README.md      ← presentación del proyecto
