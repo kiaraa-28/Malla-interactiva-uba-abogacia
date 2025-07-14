@@ -1,0 +1,5 @@
+document.querySelectorAll('.materia').forEach(materia => {
+  materia.addEventListener('click', () => {
+    alert("📚 Información: " + materia.dataset.info);
+  });
+});
